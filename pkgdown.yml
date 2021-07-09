@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  bowerbird: bowerbird.html
+  data_provenance: data_provenance.html
+last_built: 2021-07-21T19:15Z
+urls:
+  reference: https://docs.ropensci.org/bowerbird/reference
+  article: https://docs.ropensci.org/bowerbird/articles
+

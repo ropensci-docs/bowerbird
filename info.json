@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "53d7bcb56c75b10c1f42b418bec870bc0eff44df",
+    "author": "Ben Raymond <ben.raymond@aad.gov.au>",
+    "time": "2021-07-09 04:25:18",
+    "files": 2,
+    "merge": false,
+    "message": "move aws.s3 to imports v0.10.7\n"
+  },
+  "remote": "https://github.com/ropensci/bowerbird",
+  "pkg": "bowerbird"
+}
