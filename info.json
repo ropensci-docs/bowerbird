@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8ad2b285f99e72a345bd49186b01a77fb0bd892d",
+    "author": "Ben Raymond <ben.raymond@aad.gov.au>",
+    "time": "2024-03-08 00:05:58",
+    "files": 41,
+    "merge": false,
+    "message": "pkgdown\n"
+  },
+  "repo": "https://github.com/ropensci/bowerbird",
+  "pkg": "bowerbird"
+}
