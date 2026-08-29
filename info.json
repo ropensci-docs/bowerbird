@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "0e32a74188f60fb52d731288c4abe3f3449b4e54",
+    "author": "Ben Raymond <ben.raymond@aad.gov.au>",
+    "time": "2026-07-30T00:55:44Z",
+    "files": 4,
+    "merge": false,
+    "message": "import paws.storage, minor update to oceancolour handler v0.19.3\n"
+  },
+  "repo": "https://github.com/ropensci/bowerbird",
+  "pkg": "bowerbird",
+  "time": "2026-08-29T08:11:10Z"
+}
