@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "8b57ab587b6dab0f00357f5dedf35713cd6c1bf6",
+    "author": "Ben Raymond <ben.raymond@aad.gov.au>",
+    "time": "2026-11-10T23:08:15Z",
+    "files": 4,
+    "merge": false,
+    "message": "allow copernicus dry run without creds v0.20.2\n"
+  },
+  "repo": "https://github.com/ropensci/bowerbird",
+  "pkg": "bowerbird",
+  "time": "2026-11-10T23:15:34Z"
+}
